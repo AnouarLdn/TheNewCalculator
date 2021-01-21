@@ -1,0 +1,64 @@
+html {
+background-image:linear-gradient(purple, pink);
+}
+
+body {
+ height: 100vh;
+  background-image:url(./images/matt-le-SJSpo9hQf7s-unsplash.jpg);
+}
+
+table {
+  margin: auto;
+  background-color: #FFD700;
+  width: 295px;
+  max-width: 295px;
+  height: 325px;
+  text-align: center;
+  border-radius: 4px;
+  padding-right: 10px;
+}
+
+input {
+  outline: 0;
+  position: relative;
+  left: 5px;
+  top: 5px;
+  border: 0;
+  color: #495069;
+  background-color: #fff;
+  border-radius: 4px;
+  width: 60px;
+  height: 50px;
+  float: left;
+  margin: 5px;
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+
+#display {
+  width: 265px;
+  max-width: 270px;
+  font-size: 26px;
+  text-align: right;
+  float: left;
+}
+
+.operator {
+  background-color: #cee9ea;
+  position: relative;
+}
+
+#clear {
+  float: left;
+  position: relative;
+  display: block;
+  background-color: #cee9ea;
+}
+
+input#equal {
+    width: 100%;
+}
+
+form {
+    padding-top: 20vh;
+}
