@@ -2,7 +2,7 @@ This is a simple calculator using HTML/CSS/Javascript
 
 ![Image of Calculator](https://github.com/AnouarLdn/Calculator/blob/master/Calculator/css/Calculator_image.png)
 
-To access the calculator click here: https://houseofhaidary-calculator.netlify.app
+To access the calculator click here: https://calculator.houseofhaidary.com/
 
 Or look at the following steps
 
